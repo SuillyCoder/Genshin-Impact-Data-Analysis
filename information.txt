@@ -1,0 +1,27 @@
+If we're gunna be doing this notebook / data analysis article,. we first have to answer the following questions:
+
+1. Character Count:
+    X How many characters do we currently have? 
+    X How many are 4 stars? 5 stars? 
+2. Character Release
+    X How many characters in Version 1.X?
+    X How many characters in Version 2.X?
+    X How many characters in Version 3.X?
+    X How many characters in Version 4.X?
+3. Character Elements
+    X What are the elements of the characters?
+    X What are the elements of the characters that are 4 stars? 5 stars?
+4. Character Regions
+    X Where do each of the characters come from
+    X What is the distribution of a specific element from a region?
+5. Character Weapons
+    X What are some of the different weapons of some of the characters?
+    X What are some of the different weapons of some of the 4 star characters?
+    X What are some of the different weapons of some of the 5 star characters?
+    X What are some of the elements of each of the characters based on their weapon type?
+6. Character Body Types
+    X How many are male?
+    X How many are female?
+    X How many are of a specific body type?
+
+We'll have to figure out how to plot each of these datasets
